@@ -499,7 +499,7 @@
       "plot": "prod",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hermes.step",
       "svg": "",
       "vrml": ""
     },

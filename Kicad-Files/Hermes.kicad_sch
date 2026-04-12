@@ -292,6 +292,290 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "D6R90 F2 LFS:D6R90F2LFS"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 13.335 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "D6R90F2LFS"
+				(at 20.32 5.08 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "D6R90_CNK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "D6R90F2LFS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "D6R90F2LFS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D6R90_CNK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D6R90F2LFS_0_1"
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 17.78 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 17.78 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 17.78 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 0) (xy 12.7 -1.905)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 12.7 0)
+					(radius 0.127)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -5.715) (xy 14.605 -1.27)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -7.62) (xy 12.7 -5.715)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 12.7 -7.62)
+					(radius 0.127)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 17.78 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 17.78 -10.16) (xy 17.78 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 7.62)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 0)
+					(length 7.62)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 25.4 0 180)
+					(length 7.62)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 25.4 -7.62 180)
+					(length 7.62)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1990,10 +2274,6 @@
 		(uuid "462764d6-9c29-4123-af64-59e46be9d30f")
 	)
 	(no_connect
-		(at 138.43 143.51)
-		(uuid "47aeffc8-385e-42a4-a1b3-49949ce6b1e7")
-	)
-	(no_connect
 		(at 172.72 132.08)
 		(uuid "8514e503-8f6b-4799-8db8-c924afee6c40")
 	)
@@ -2024,6 +2304,26 @@
 			(type default)
 		)
 		(uuid "750d6da4-cb89-44d1-a16d-00d58ebab36d")
+	)
+	(wire
+		(pts
+			(xy 106.68 156.21) (xy 132.08 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b345a6b-f8b1-412f-9f95-20300d1d684b")
+	)
+	(wire
+		(pts
+			(xy 106.68 148.59) (xy 132.08 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4f978da-eaa4-4572-badf-0316219e0aa6")
 	)
 	(wire
 		(pts
@@ -2177,6 +2477,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 132.08 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19f31935-fac1-44bd-931e-74f753ce1e92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.9357 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Batt_NEG"
 		(shape input)
 		(at 205.74 133.35 180)
@@ -2190,6 +2512,28 @@
 		(uuid "1d9451db-2765-44dc-a135-795ec60589e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 194.1673 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Button"
+		(shape input)
+		(at 106.68 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "20be6a97-088b-4e67-834a-f9071a9a0648")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.5264 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2305,6 +2649,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Button"
+		(shape input)
+		(at 138.43 143.51 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "445882d7-6fab-4e86-b590-14e2d3198744")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.2764 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3359,12 +3725,88 @@
 			)
 		)
 		(pin "1"
-			(uuid "73368a29-598e-42a7-adc9-f08f8c27db31")
+			(uuid "73368a29-598e-42a7-adc9-f08f8c27db32")
 		)
 		(instances
 			(project ""
 				(path "/19245d2f-292e-40b6-bf17-043704df1fae"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "D6R90 F2 LFS:D6R90F2LFS")
+		(at 106.68 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65ef14d8-99ab-4beb-af8b-d41256b6c4f4")
+		(property "Reference" "SW1"
+			(at 119.38 140.97 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "D6R90F2LFS"
+			(at 119.38 143.51 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "D6R90_CNK"
+			(at 106.68 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "D6R90F2LFS"
+			(at 106.68 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "350ca341-af27-4df7-9276-a2276574bef0")
+		)
+		(pin "3"
+			(uuid "6b7c1d13-7ce3-43a2-a427-a93079aa5958")
+		)
+		(pin "1"
+			(uuid "cf4ecab4-4b0c-45ed-a695-32eb9fda1674")
+		)
+		(pin "2"
+			(uuid "2048a74e-a221-4531-a074-65fc6e884a7b")
+		)
+		(instances
+			(project ""
+				(path "/19245d2f-292e-40b6-bf17-043704df1fae"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -4002,10 +4444,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5cdfe441-957d-43e5-8d08-4682ce6b27c3")
+			(uuid "5cdfe441-957d-43e5-8d08-4682ce6b27c4")
 		)
 		(pin "1"
-			(uuid "9adc2955-a9f0-4f29-b980-4397f5d4d13e")
+			(uuid "9adc2955-a9f0-4f29-b980-4397f5d4d13f")
 		)
 		(instances
 			(project ""
